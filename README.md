@@ -35,24 +35,32 @@ by hand, and (currently) put into CSV format.
 
 ## Progress:
 
-- [ ] Amphitruo
-- [x] Asinaria 
-- [ ] Aulularia
-- [ ] Bacchides
-- [ ] Captivi
-- [ ] Casina
-- [ ] Cistellaria
-- [ ] Curculio
-- [ ] Epidicus
-- [ ] Menaechmi
-- [ ] Mercator
-- [ ] Miles Gloriosus
-- [ ] Mostellaria
-- [ ] Persa
-- [ ] Poenulus
-- [ ] Pseudolus
-- [ ] Rudens
-- [ ] Stichus
-- [ ] Trinummus
-- [ ] Truculentus
-- [ ] Vidularia
+* Plautus:
+    - [ ] Amphitruo
+    - [x] Asinaria 
+    - [ ] Aulularia
+    - [ ] Bacchides
+    - [ ] Captivi
+    - [ ] Casina
+    - [ ] Cistellaria
+    - [ ] Curculio
+    - [ ] Epidicus
+    - [ ] Menaechmi
+    - [ ] Mercator
+    - [ ] Miles Gloriosus
+    - [ ] Mostellaria
+    - [ ] Persa
+    - [ ] Poenulus
+    - [ ] Pseudolus
+    - [ ] Rudens
+    - [ ] Stichus
+    - [ ] Trinummus
+    - [ ] Truculentus
+    - [ ] Vidularia
+* Terence:
+    - [ ] Andria
+    - [ ] Hecyra
+    - [ ] Heauton Timouromenos
+    - [ ] Phormio
+    - [ ] Eunuchus
+    - [ ] Adelphoe
