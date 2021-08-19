@@ -23,4 +23,5 @@ Roman Comedy — Insult interaction tables:
 		- Vidularia
 	- Other work to do:
 		- Develop an automation/script to clip the header and convert to JSON format.
-		- 
+		- Develop a workflow for analyzing the data in meaningful ways.
+		- Consider whether to extend the workflow to non-RC texts.
