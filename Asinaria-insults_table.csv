@@ -1,0 +1,62 @@
+Play name: Asinaria,,,,,,,,,,,,
+Total Lines: 947,,,,,,,,,,,,
+Edition: Lindsay OCT,,,,,,,,,,,,
+,,,,,,,,,,,,
+Insult Speaker,Character Type,Status,Gender,Start,End,Insult Type,Insult Against,Insultee status,Insultee gender,Insultee present?,Perceived Valence,Note(s)
+Demaenetus,senex,free,male,44,44,death wish,his wife Artemona,free,female,no,hostile,mild
+Demaenetus,senex,free,male,62,62,character critique,his wife Artemona,free,female,no,hostile,mild
+Libanus,servus,enslaved,male,85,86,poverty,his owner Demaenetus,free,male,yes,joking,mocking
+Demaenetus,senex,free,male,87,87,self-mockery,himself,free,male,yes,joking,mild
+Libanus,servus,enslaved,male,91,95,poverty,his owner Demaenetus,free,male,yes,neutral,mocking
+Demaenetus,senex,free,male,102,103,character critique,his slave Libanus,enslaved,male,no,neutral,admiring
+Argyrippus/Diabolus,adulescens,free,male,129,152,behavior critique,his girlfriend Philaenium; her mother Cleareta,free,female,offstage,hostile,very hostile; both women are offstage (inside the house)
+Argyrippus,adulescens,free,male,173,173,behavior critique,girlfriend's mother Cleareta,free,female,yes,hostile,mild
+Argyrippus,adulescens,free,male,204,214,behavior critique,girlfriend's mother Cleareta,free,female,yes,hostile,moderately hostile
+Libanus,servus,enslaved,male,272,272,behavior critique,his friend Leonida,enslaved,male,yes,joking,joking hostility
+Leonida,servus,enslaved,male,297,297,status mockery,his friend Libanus,enslaved,male,yes,joking,verbal duel
+Libanus,servus,enslaved,male,297,297,status mockery,his friend Leonida,enslaved,male,yes,joking,verbal duel
+Leonida,servus,enslaved,male,298,298,status mockery,his friend Libanus,enslaved,male,yes,joking,verbal duel
+Libanus,servus,enslaved,male,298,298,status mockery,his friend Leonida,enslaved,male,yes,joking,verbal duel
+Leonida,servus,enslaved,male,299,305,status mockery,his friend Libanus,enslaved,male,yes,joking,"verbal duel; a long ""capper"" joke with interjections from Libanus"
+Libanus,servus,enslaved,male,306,306,exclamation,his friend Leonida,enslaved,male,yes,joking,"verbal duel; ending ""vae tibi"""
+Mercator,mercator,free,male,385,385,mental critique,a slave Libanus,enslaved,male,yes,neutral,mild retort
+Libanus,servus,enslaved,male,400,401,bodily mockery,his friend Libanus,enslaved,male,no,joking,metatheatrical joke about servi costuming
+Leonida,servus,enslaved,male,420,431,physical abuse,his friend Libanus,enslaved,male,yes,joking; hostile,Leonida is pretending to be Saurea the Atriensis
+Mercator,mercator,free,male,470,470,character critique,a slave Libanus,enslaved,male,yes,neutral,mild; tied to rebuke for arguing w/ a free person
+Libanus,servus,enslaved,male,472,472,character critique, the Mercator,free,male,yes,hostile,hostile; a deliberate part of a larger scheme
+Libanus,servus,enslaved,male,473,473,character critique,a free person the Mercator,free,male,yes,hostile,hostile; a deliberate part of a larger scheme
+Leonida,servus,enslaved,male,474,475,character critique,a free person the Mercator,free,male,yes,hostile,hostile; a deliberate part of a larger scheme; indirect insult
+Libanus,servus,enslaved,male,475,476,character critique,a free person the Mercator,free,male,yes,hostile,hostile; a deliberate part of a larger scheme
+Leonida,servus,enslaved,male,477,477,character critique,a free person the Mercator,free,male,yes,hostile,hostile; a deliberate part of a larger scheme
+Leonida,servus,enslaved,male,481,482,exclamation,a free person the Mercator,free,male,yes,hostile,"hostile; ""vae te""; a deliberate part of a larger scheme"
+Leonida,servus,enslaved,male,485,486,character critique,a free person the Mercator,free,male,yes,hostile,hostile; a deliberate part of a larger scheme
+Cleareta,lena,free,female,511,511,character critique,her daughter Philaenium,free,female,yes,neutral,very mild
+Cleareta,lena,free,female,521,534,behavior critique,her daughter Philaenium,free,female,yes,hostile,mild; a roundabout insult via a long critique of Ph's behavior
+Cleareta,lena,free,female,543,543,behavior critique,her daughter Philaenium,free,female,yes,hostile,mild
+Leonida,servus,enslaved,male,560,565,behavior critique,his friend Libanus,enslaved,male,yes,joking,joking ironic praise; another kind of verbal duel
+Libanus,servus,enslaved,male,566,576,behavior critique,his friend Leonida,enslaved,male,yes,joking,joking ironic praise; another kind of verbal duel
+Argyrippus,adulescens,free,male,625,625,status mockery,his slave Libanus,enslaved,male,yes,hostile,hostile response to L's sex-joke
+Leonida,servus,enslaved,male,627,628,behavior critique,his friend Libanus,enslaved,male,yes,joking,joking hostility as part of a shtick
+Leonida,servus,enslaved,male,646,668,status inversion,his owner Argyrippus,free,male,yes,joking,more mockery than actual abuse; part of an extended joke
+Argyrippus,adulescens,free,male,669,669,status mockery,his slave Leonida,enslaved,male,yes,hostile,hostile response to Leonida's outrageous behavior
+Leonida,servus,enslaved,male,669,670,status inversion,his owner Argyrippus,free,male,yes,joking,inverting A's social status
+Argyrippus,adulescens,free,male,677,677,status mockery,his slave Leonida,enslaved,male,yes,hostile,hostile response to Leonida's outrageous behavior
+Argyrippus,adulescens,free,male,680,681,behavior critique,his slave Leonida,enslaved,male,yes,hostile,hostile response to Leonida's outrageous behavior
+Libanus,servus,enslaved,male,685,696,status inversion,his owner Argyrippus,free,male,yes,joking,more mockery than actual abuse; part of an extended joke
+Argyrippus,adulescens,free,male,697,697,status mockery,his slave Leonida,enslaved,male,yes,hostile,hostile response to Leonida's outrageous behavior
+Libanus,servus,enslaved,male,697,709,status inversion,his owner Argyrippus,free,male,yes,joking,physical and visual abuse as L makes A carry him like a horse
+Libanus,servus,enslaved,male,712,713,status inversion,his owner Argyrippus,free,male,yes,joking,demands that his owner A make an altar and sacrifices to him
+Leonida,servus,enslaved,male,714,716,status inversion,his owner Argyrippus,free,male,yes,joking,demands that his owner A make an altar and sacrifices to him
+Diabolus,adulescens,free,male,812,819,character critique,the senex Demaenetus,free,male,no,hostile,rebuke for behaving like a lecherous old man
+Artemona,matrona,free,female,856,857,character critique,her husband Demainetus,free,male,no,hostile,lament about his previously-unknown poor character.
+Parasitus,parasitus,free (?),male,858,859,character critique,the senex Demaenetus,free,male, no,hostile,abuse of D's terrible character and behavior
+Parasitus,parasitus,free (?),male,861,863,behavior critique,the senex Demaenetus,free,male, no,hostile,abuse of D's terrible character and behavior
+Artemona,matrona,free,female,864,867,behavior critique,her husband Demainetus,free,male,no,hostile,lament about his previously-unknown poor character.
+Parasitus,parasitus,free (?),male,870,870,behavior critique,the matrona Artemona,free,female,yes,hostile,an aside mocking A as a shrewish wife
+Artemona,matrona,free,female,892,892,character critique,her husband Demainetus,free,male,no,hostile,lament about his previously-unknown poor character.
+Demaenetus,senex,free,male,893,895,character critique,his wife Artemona,free,female,yes,hostile,mocking his wife who is listening in offstage
+Demaenetus,senex,free,male,900,901,character critique,his wife Artemona,free,female,yes,hostile,mocking his wife who is listening in offstage
+Artemona,matrona,free,female,922,923,character critique,her husband Demainetus,free,male,yes,hostile,insulting her husband after finding him in flagrante delicto
+Artemona,matrona,free,female,922,923,character critique,her husband Demainetus,free,male,yes,hostile,insulting her husband after finding him in flagrante delicto
+Artemona,matrona,free,female,932,934,character critique,her husband Demainetus,free,male,yes,hostile,insulting her husband after finding him in flagrante delicto
+Demaenetus,senex,free,male,940,940,exclamation,the scortum Philaenium,free (?),female,yes,hostile,retort to a cutting remark by Philaenium
