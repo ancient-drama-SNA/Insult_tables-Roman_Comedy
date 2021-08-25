@@ -47,6 +47,10 @@ Alcumena,matrona,free,female,857,857,status mockery,Sosia,enslaved,male,yes,anno
 Alcumena,matrona,free,female,882,886,character critique,Herself,free,female,yes,distraughter lament,complains about the insult to herself after Amphitruo accused her of impropriety
 Alcumena,matrona,free,female,904,907,character critique,Jupiter,free,male,yes,annoyed insult,"in frustration calls Amph-Jupiter ""stupider than stupid"""
 Jupiter,dux,free, male,929,929,behavior critique,Alcumena,free,female,yes,disbelieving mockery,"asks Alcumena if ""she's sane"" after she states that she wants a divorce"
+Sosia,servus,enslaved,male,957,962,status critique,Jupiter and Alcumena,free,male and female,yes,teasing mockery,"Sosia performs a parody of slave behavior stating ""slave emotions all depend on the emotions of their owners"""
+Mercury,deus,mock-enslaved,male,984,9996,status critique,institution of slavery,abstract,abstract,abstract,teasing mockery,Mercury echoes Sosia's earlier parody of slave behavior; seems to burlesque the idea that slaves have no identity beyond that of their owner(s)
+Amphitruo,dux,free,male,1025,1025,behavior critique,Mercury,mock-enslaved,male,yes,outraged exclamation,"Amphitruo is outraged that ""Sosia"" (=Mercury) is acting so disrespectfully"
+Mercury,deus,mock-enslaved,male,1026,1028,behavior critique,Amphitruo,free,male,yes,blunt mockery,Mercury-as-Sosia insults Amphitruo in a way that is designed to elicit a sharp response
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
