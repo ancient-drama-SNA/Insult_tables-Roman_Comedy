@@ -1,58 +1,58 @@
-Play name: Amphitruo ,,,,,,,,,,,,
-Total Lines: 1146 (L),,,,,,,,,,,,
-Edition: Lindsay,,,,,,,,,,,,
-,,,,,,,,,,,,
-Insult Speaker,Character Type,Status,Gender,Start,End,Insult Type,Insult Against,Insultee status,Insultee gender,Insultee present?,Perceived Valence,Note(s)
-Sosia,servus,enslaved,male,163,175,behavior critique,his owner Amphitruo,free,male,no,genuine complaint but the rebuke is mild,S complaining about the nature of enslavement
-Sosia,servus,enslaved,male,180,184,behavior critique,self insult,enslaved,male,yes,frank assessment,self-denigration typical of enslaved comic characters
-Sosia,servus,enslaved,male,198,202,behavior critique,self insult,enslaved,male,yes,frank assessment,S outlines his habit of lying 
-Mercury,deus,mock-enslaved,male,268,269,character critique,the slave Sosia,enslaved,male,yes (but unhearing),joking assessment of S's qualities,reinforces the comments S himself made earlier
-Mercury,deus,mock-enslaved,male,284,286,character critique,the slave Sosia,enslaved,male,yes (but unhearing),genuine rebuke of Sosia's comment,M is angry that S compares himself to the gods
-Mercury,deus,mock-enslaved,male,321,321,character critique,the slave Sosia,enslaved,male,yes (but unhearing),joking insult,joke about Sosia's smell/character
-Mercury,deus,mock-enslaved,male,342,344,status mockery,the slave Sosia,enslaved,male,yes ,unclear valence,comment about Sosia's status; calls him 'verbero'
-Mercury,deus,mock-enslaved,male,357,360,threat,the slave Sosia,enslaved,male,yes ,threatening,insulting threat to kill/harm Sosia
-Mercury,deus,mock-enslaved,male,366,369,character critique,the slave Sosia,enslaved,male,yes ,harsh insult,mocks Sosia as a liar
-Mercury,deus,mock-enslaved,male,376,376,character critique,the slave Sosia,enslaved,male,yes ,harsh insult,mocks Sosia as a 'carnufex'
-Mercury,deus,mock-enslaved,male,402,402,character critique,the slave Sosia,enslaved,male,yes ,joking mockery,claims Sosia is crazy
-Mercury,deus,mock-enslaved,male,422,422,status mockery,the slave Sosia,enslaved,male,yes ,joking mockery,brief insult of Sosia's status
-Mercury,deus,mock-enslaved,male,439,440,status mockery,the slave Sosia,enslaved,male,yes ,joking mockery,concluding insult about Sosia's lost identity and lost status
-Mercury,deus,mock-enslaved,male,464,464,character critique,the slave Sosia,enslaved,male,no,joking mockery,offhand mockery of Sosia
-Mercury,deus,mock-enslaved,male,493,495,behavior critique,deities in general,divine,both,yes and no,frank assessment,a backhanded insult the paints gods as (virtual) slaveowners
-Mercury,deus,mock-enslaved,male,506,506,character critique,Jupiter,divine,male,yes (but unhearing),admiring insult,candid remark about Juppiter's ability to trick humans
-Jupiter,deus,mock-free,male,518,519,status mockery,Mercury,divine,male,yes,harsh insult,uses slave-specific language to degrade Mercury/Sosia
-Jupiter,deus,mock-free,male,539,539,status mockery,Mercury,divine,male,yes,harsh insult,uses slave-specific language to degrade Mercury/Sosia
-Amphitruo,dux,free,male,556,557,character critique,Sosia,enslaved,male,yes,harsh insult,impugns Sosia's credibility
-Amphitruo,dux,free,male,561,561,character critique,Sosia,enslaved,male,yes,harsh insult,impugns Sosia's credibility
-Amphitruo,dux,free,male,565,565,character critique,Sosia,enslaved,male,yes,harsh insult,impugns Sosia's credibility (and claims he is insulting/deluding Amph)
-Amphitruo,dux,free,male,571,571,character critique,Sosia,enslaved,male,yes,harsh insult,impugns Sosia's credibility (and claims he is insulting/deluding Amph)
-Amphitruo,dux,free,male,574,574,behavior critique,Sosia,enslaved,male,yes,mild insult,suggests that Sosia is drunk
-Amphitruo,dux,free,male,581,581,behavior critique,Sosia,enslaved,male,yes,mild insult,suggests that Sosia is ill (or maddened)
-Amphitruo,dux,free,male,583,589,behavior critique,Sosia,enslaved,male,yes,angry abuse,suggests that Sosia is ill/insane/lying; aggresive and hostile
-Amphitruo,dux,free,male,604,606,behavior critique,Sosia,enslaved,male,yes,mild insult,suggests that Sosia is insane
-Alcumena,matrona,free,female,682,685,behavior critique,Amphitruo,free,male,yes,mild critique,Alcumena believes that Amphitruo is mocking her; she responds with a mild rebuke
-Amphitruo,dux,free,male,696,695,behavior critique,Alcumena,free,female,yes,mild insult,suggests that Alcumena is insane or crazed
-Sosia,servus,enslaved,male,700,705,behavior critique,Alcumena,free,female,yes,joking insult,suggests that Alcumena is insane (i.e. a 'Bacchant') — see hook://file/2BjKOPbfb?p=Vmltd2lraS9aZXR0ZWxfV2lraQ==&n=210817-1249-insanity_insults-a.wiki
-Amphitruo,dux,free,male,709,709,behavior critique,Alcumena,free,female,yes,harsh insult,asks whether Alcumena is stupid or insolent
-Sosia,servus,enslaved,male,718,719,behavior critique,Alcumena,free,female,yes,joking insult,"suggests that Alcumena is ""pregnant with insanity"" — see hook://file/2BjKOPbfb?p=Vmltd2lraS9aZXR0ZWxfV2lraQ==&n=210817-1249-insanity_insults-a.wiki"
-Amphitruo,dux,free,male,727,729,behavior critique,Alcumena,free,female,yes,mild insult,suggests that Alcumena is insane
-Sosia,servus,enslaved,male,738,739,behavior critique,Alcumena,free,female,yes,joking mockery,tells Alcumena that she is dreaming (and mocks her religiosity)
-Alcumena,matrona,free,female,741,741,outburts,Sosia,enslaved,male,yes,harsh insult,"a ""vae tibi"" in response to Sosia's mockery"
-Sosia,servus,enslaved,male,753,754,behavior critique,Amphitruo,free,male,yes,joking mockery,"asks Amphitruo whether he is ""insanis"" in response to a question — hook://file/2BjKOPbfb?p=Vmltd2lraS9aZXR0ZWxfV2lraQ==&n=210817-1249-insanity_insults-a.wiki"
-Amphitruo,dux,free,male,777,777,behavior critique,Alcumena,free,female,yes (but unhearing),frank assessment,"states that Alcumena is insane (lit. that she is ""full of bewitchment"")"
-Amphitruo,dux,free,male,798,798,behavior critique,Sosia,enslaved,male,yes,outraged exclamation,"asks whether Sosia has ""joined"" Alcumena in acting crazy/irrational"
-Amphitruo,dux,free,male,811,812,character critique,Alcumena,free,female,yes,outraged insult,"states that Alcumena is ""impure"" and ""unchaste"" due to her physical relations with a ""stranger"" (Jupiter-Amphitruo)"
-Amphitruo,dux,free,male,816,817,character critique,Alcumena,free,female,yes,outraged insult,"states that Alcumena is ""impure"" and ""unchaste"" due to her physical relations with a ""stranger"" (Jupiter-Amphitruo)"
-Amphitruo,dux,free,male,836,836,status mockery,Alcumena,free,female,yes,candid insult,"remarks that Alcumena ""swears rashly"" because she is female; a strongly gendered insult"
-Alcumena,matrona,free,female,857,857,status mockery,Sosia,enslaved,male,yes,annoyed insult,"in frustration calls Sosia a ""dignus domino servus""; unclear valence here"
-Alcumena,matrona,free,female,882,886,character critique,Herself,free,female,yes,distraughter lament,complains about the insult to herself after Amphitruo accused her of impropriety
-Alcumena,matrona,free,female,904,907,character critique,Jupiter,free,male,yes,annoyed insult,"in frustration calls Amph-Jupiter ""stupider than stupid"""
-Jupiter,dux,free, male,929,929,behavior critique,Alcumena,free,female,yes,disbelieving mockery,"asks Alcumena if ""she's sane"" after she states that she wants a divorce"
-Sosia,servus,enslaved,male,957,962,status critique,Jupiter and Alcumena,free,male and female,yes,teasing mockery,"Sosia performs a parody of slave behavior stating ""slave emotions all depend on the emotions of their owners"""
-Mercury,deus,mock-enslaved,male,984,9996,status critique,institution of slavery,abstract,abstract,abstract,teasing mockery,Mercury echoes Sosia's earlier parody of slave behavior; seems to burlesque the idea that slaves have no identity beyond that of their owner(s)
-Amphitruo,dux,free,male,1025,1025,behavior critique,Mercury,mock-enslaved,male,yes,outraged exclamation,"Amphitruo is outraged that ""Sosia"" (=Mercury) is acting so disrespectfully"
-Mercury,deus,mock-enslaved,male,1026,1028,behavior critique,Amphitruo,free,male,yes,blunt mockery,Mercury-as-Sosia insults Amphitruo in a way that is designed to elicit a sharp response
-Amphitruo,dux,free,male,1029,1030,behavior critique,Mercury,mock-enslaved,male,yes,outraged exclamation,"Amphitruo is outraged that ""Sosia"" (=Mercury) is acting so disrespectfully and uses a slave-specific insult (""ulmorum Accheruns"") against him"
-Mercury,deus,mock-enslaved,male,1031,1032,behavior critique,Amphitruo,free,male,yes,joking (but provocative) mockery,Mercury-as-Sosia insults Amphitruo in a way that is designed to elicit a sharp response; specifically uses a riddling kind of mockery
-Amphitruo,dux,free,male,1033,1033,status insult,Mercury,mock-enslaved,male,yes,outraged exclamation,"Amphitruo is outraged that ""Sosia"" (=Mercury) is acting so disrespectfully and insults him using-slave specific language"
-Mercury,deus,mock-enslaved,male,1034,1034,behavior critique,Amphitruo,free,male,yes,joking (but provocative) mockery,Mercury-as-Sosia insults Amphitruo in a way that is designed to elicit a sharp response; specifically uses a riddling kind of mockery
-Amphitruo,dux,free,male,1097,1097,behavior critique,Bromia,enslaved,female,yes,wry accusation,Amphitruo suggests that Bromia is deceiving and mocking him as she describes what happens while Alcumena gives birth
+Play name: Amphitruo ,,,,,,,,,,,,,
+Total Lines: 1146 (L),,,,,,,,,,,,,
+Edition: Lindsay,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Insult Speaker,Speaker Character Type,Speaker Status,Speaker Gender,Line Start,Line End,Insult Type,Insult Against,Insultee Character Type,Insultee status,Insultee gender,Insultee present?,Perceived Valence,Note(s)
+Sosia,servus,enslaved,male,163,175,behavior critique,Amphitruo,dux,free,male,no,genuine complaint but the rebuke is mild,S complaining about the nature of enslavement
+Sosia,servus,enslaved,male,180,184,behavior critique,Sosia,servus,enslaved,male,yes,frank assessment,self-denigration typical of enslaved comic characters
+Sosia,servus,enslaved,male,198,202,behavior critique,Sosia,servus,enslaved,male,yes,frank assessment,S outlines his habit of lying 
+Mercury,deus,mock-enslaved,male,268,269,character critique,Sosia,servus,enslaved,male,yes (but unhearing),joking assessment of S's qualities,reinforces the comments S himself made earlier
+Mercury,deus,mock-enslaved,male,284,286,character critique,Sosia,servus,enslaved,male,yes (but unhearing),genuine rebuke of Sosia's comment,M is angry that S compares himself to the gods
+Mercury,deus,mock-enslaved,male,321,321,character critique,Sosia,servus,enslaved,male,yes (but unhearing),joking insult,joke about Sosia's smell/character
+Mercury,deus,mock-enslaved,male,342,344,status mockery,Sosia,servus,enslaved,male,yes ,unclear valence,comment about Sosia's status; calls him 'verbero'
+Mercury,deus,mock-enslaved,male,357,360,threat,Sosia,servus,enslaved,male,yes ,threatening,insulting threat to kill/harm Sosia
+Mercury,deus,mock-enslaved,male,366,369,character critique,Sosia,servus,enslaved,male,yes ,harsh insult,mocks Sosia as a liar
+Mercury,deus,mock-enslaved,male,376,376,character critique,Sosia,servus,enslaved,male,yes ,harsh insult,mocks Sosia as a 'carnufex'
+Mercury,deus,mock-enslaved,male,402,402,character critique,Sosia,servus,enslaved,male,yes ,joking mockery,claims Sosia is crazy
+Mercury,deus,mock-enslaved,male,422,422,status mockery,Sosia,servus,enslaved,male,yes ,joking mockery,brief insult of Sosia's status
+Mercury,deus,mock-enslaved,male,439,440,status mockery,Sosia,servus,enslaved,male,yes ,joking mockery,concluding insult about Sosia's lost identity and lost status
+Mercury,deus,mock-enslaved,male,464,464,character critique,Sosia,servus,enslaved,male,no,joking mockery,offhand mockery of Sosia
+Mercury,deus,mock-enslaved,male,493,495,behavior critique,deities in general,abstraction,divine,both,yes and no,frank assessment,a backhanded insult the paints gods as (virtual) slaveowners
+Mercury,deus,mock-enslaved,male,506,506,character critique,Jupiter,deus,divine,male,yes (but unhearing),admiring insult,candid remark about Juppiter's ability to trick humans
+Jupiter,deus,mock-free,male,518,519,status mockery,Mercury,deus,divine,male,yes,harsh insult,uses slave-specific language to degrade Mercury/Sosia
+Jupiter,deus,mock-free,male,539,539,status mockery,Mercury,deus,divine,male,yes,harsh insult,uses slave-specific language to degrade Mercury/Sosia
+Amphitruo,dux,free,male,556,557,character critique,Sosia,servus,enslaved,male,yes,harsh insult,impugns Sosia's credibility
+Amphitruo,dux,free,male,561,561,character critique,Sosia,servus,enslaved,male,yes,harsh insult,impugns Sosia's credibility
+Amphitruo,dux,free,male,565,565,character critique,Sosia,servus,enslaved,male,yes,harsh insult,impugns Sosia's credibility (and claims he is insulting/deluding Amph)
+Amphitruo,dux,free,male,571,571,character critique,Sosia,servus,enslaved,male,yes,harsh insult,impugns Sosia's credibility (and claims he is insulting/deluding Amph)
+Amphitruo,dux,free,male,574,574,behavior critique,Sosia,servus,enslaved,male,yes,mild insult,suggests that Sosia is drunk
+Amphitruo,dux,free,male,581,581,behavior critique,Sosia,servus,enslaved,male,yes,mild insult,suggests that Sosia is ill (or maddened)
+Amphitruo,dux,free,male,583,589,behavior critique,Sosia,servus,enslaved,male,yes,angry abuse,suggests that Sosia is ill/insane/lying; aggresive and hostile
+Amphitruo,dux,free,male,604,606,behavior critique,Sosia,servus,enslaved,male,yes,mild insult,suggests that Sosia is insane
+Alcumena,matrona,free,female,682,685,behavior critique,Amphitruo,dux,free,male,yes,mild critique,Alcumena believes that Amphitruo is mocking her; she responds with a mild rebuke
+Amphitruo,dux,free,male,696,695,behavior critique,Alcumena,matrona,free,female,yes,mild insult,suggests that Alcumena is insane or crazed
+Sosia,servus,enslaved,male,700,705,behavior critique,Alcumena,matrona,free,female,yes,joking insult,suggests that Alcumena is insane (i.e. a 'Bacchant') — see hook://file/2BjKOPbfb?p=Vmltd2lraS9aZXR0ZWxfV2lraQ==&n=210817-1249-insanity_insults-a.wiki
+Amphitruo,dux,free,male,709,709,behavior critique,Alcumena,matrona,free,female,yes,harsh insult,asks whether Alcumena is stupid or insolent
+Sosia,servus,enslaved,male,718,719,behavior critique,Alcumena,matrona,free,female,yes,joking insult,"suggests that Alcumena is ""pregnant with insanity"" — see hook://file/2BjKOPbfb?p=Vmltd2lraS9aZXR0ZWxfV2lraQ==&n=210817-1249-insanity_insults-a.wiki"
+Amphitruo,dux,free,male,727,729,behavior critique,Alcumena,matrona,free,female,yes,mild insult,suggests that Alcumena is insane
+Sosia,servus,enslaved,male,738,739,behavior critique,Alcumena,matrona,free,female,yes,joking mockery,tells Alcumena that she is dreaming (and mocks her religiosity)
+Alcumena,matrona,free,female,741,741,outburts,Sosia,servus,enslaved,male,yes,harsh insult,"a ""vae tibi"" in response to Sosia's mockery"
+Sosia,servus,enslaved,male,753,754,behavior critique,Amphitruo,dux,free,male,yes,joking mockery,"asks Amphitruo whether he is ""insanis"" in response to a question — hook://file/2BjKOPbfb?p=Vmltd2lraS9aZXR0ZWxfV2lraQ==&n=210817-1249-insanity_insults-a.wiki"
+Amphitruo,dux,free,male,777,777,behavior critique,Alcumena,matrona,free,female,yes (but unhearing),frank assessment,"states that Alcumena is insane (lit. that she is ""full of bewitchment"")"
+Amphitruo,dux,free,male,798,798,behavior critique,Sosia,servus,enslaved,male,yes,outraged exclamation,"asks whether Sosia has ""joined"" Alcumena in acting crazy/irrational"
+Amphitruo,dux,free,male,811,812,character critique,Alcumena,matrona,free,female,yes,outraged insult,"states that Alcumena is ""impure"" and ""unchaste"" due to her physical relations with a ""stranger"" (Jupiter-Amphitruo)"
+Amphitruo,dux,free,male,816,817,character critique,Alcumena,matrona,free,female,yes,outraged insult,"states that Alcumena is ""impure"" and ""unchaste"" due to her physical relations with a ""stranger"" (Jupiter-Amphitruo)"
+Amphitruo,dux,free,male,836,836,status mockery,Alcumena,matrona,free,female,yes,candid insult,"remarks that Alcumena ""swears rashly"" because she is female; a strongly gendered insult"
+Alcumena,matrona,free,female,857,857,status mockery,Sosia,servus,enslaved,male,yes,annoyed insult,"in frustration calls Sosia a ""dignus domino servus""; unclear valence here"
+Alcumena,matrona,free,female,882,886,character critique,Alcumena,matrona,free,female,yes,distraughter lament,complains about the insult to herself after Amphitruo accused her of impropriety
+Alcumena,matrona,free,female,904,907,character critique,Jupiter,deus,free,male,yes,annoyed insult,"in frustration calls Amph-Jupiter ""stupider than stupid"""
+Jupiter,dux,free, male,929,929,behavior critique,Alcumena,matrona,free,female,yes,disbelieving mockery,"asks Alcumena if ""she's sane"" after she states that she wants a divorce"
+Sosia,servus,enslaved,male,957,962,status critique,Jupiter and Alcumena,deus and matrona,free,male and female,yes,teasing mockery,"Sosia performs a parody of slave behavior stating ""slave emotions all depend on the emotions of their owners"""
+Mercury,deus,mock-enslaved,male,984,9996,status critique,institution of slavery,abstraction,abstract,abstract,abstract,teasing mockery,Mercury echoes Sosia's earlier parody of slave behavior; seems to burlesque the idea that slaves have no identity beyond that of their owner(s)
+Amphitruo,dux,free,male,1025,1025,behavior critique,Mercury,deus,mock-enslaved,male,yes,outraged exclamation,"Amphitruo is outraged that ""Sosia"" (=Mercury) is acting so disrespectfully"
+Mercury,deus,mock-enslaved,male,1026,1028,behavior critique,Amphitruo,dux,free,male,yes,blunt mockery,Mercury-as-Sosia insults Amphitruo in a way that is designed to elicit a sharp response
+Amphitruo,dux,free,male,1029,1030,behavior critique,Mercury,deus,mock-enslaved,male,yes,outraged exclamation,"Amphitruo is outraged that ""Sosia"" (=Mercury) is acting so disrespectfully and uses a slave-specific insult (""ulmorum Accheruns"") against him"
+Mercury,deus,mock-enslaved,male,1031,1032,behavior critique,Amphitruo,dux,free,male,yes,joking (but provocative) mockery,Mercury-as-Sosia insults Amphitruo in a way that is designed to elicit a sharp response; specifically uses a riddling kind of mockery
+Amphitruo,dux,free,male,1033,1033,status insult,Mercury,deus,mock-enslaved,male,yes,outraged exclamation,"Amphitruo is outraged that ""Sosia"" (=Mercury) is acting so disrespectfully and insults him using-slave specific language"
+Mercury,deus,mock-enslaved,male,1034,1034,behavior critique,Amphitruo,dux,free,male,yes,joking (but provocative) mockery,Mercury-as-Sosia insults Amphitruo in a way that is designed to elicit a sharp response; specifically uses a riddling kind of mockery
+Amphitruo,dux,free,male,1097,1097,behavior critique,Bromia,ancilla,enslaved,female,yes,wry accusation,Amphitruo suggests that Bromia is deceiving and mocking him as she describes what happens while Alcumena gives birth
