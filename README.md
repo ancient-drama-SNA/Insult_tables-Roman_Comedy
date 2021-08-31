@@ -4,7 +4,7 @@ Data on insult interactions among characters from the plays of Plautus and Teren
 by hand, and (currently) put into CSV format.
 
 
-## 'Insult Tables' notes:
+## Roman Comedy 'Insult Tables' notes:
 
 * As currently set up, the tables are encoded as CSV files.
     - The delimiter for each field is a comma.
@@ -17,6 +17,13 @@ by hand, and (currently) put into CSV format.
 * For conversion, the `csvtojson` command-line tool seems to work well. (A `node` program.)
     - BUT: only works if the header/metadata is removed.
 
+* _Methodological Notes:_
+    - I am treating multi-line, multi-part insults as a single unit. That is, insults are
+      demarcated by "chunks" of speech, assigned to a specific speaker. 
+    - The only time I separate individual insult entries is when/if the speaker, in the
+      course of a long speech, makes an insult, moves to another topic, and then begins
+      another insult. Long strings of insults however are counted as a "chunk."
+
 
 ## Project Goals
 
@@ -26,19 +33,21 @@ by hand, and (currently) put into CSV format.
 * Once each play is analyzed and insult interactions are compiled, I hope to accomplish the
   following:
     1. Convert each table into a JSON document, for use in computer analysis.
-    2. Develop a methodology for analyzing insult interactions within corpora using the
+    2. Document and extend the workflow for use with other dramatic corpora.
+    3. Develop a methodology for analyzing insult interactions within corpora using the
        encoded data. E.g., both within individual plays, but also across the Plautine and
        Terentian corpora.
-    3. Document and extend the workflow for use with other dramatic corpora.
-    4. ???
+    4. Develop a workflow (or even semi-automated process) for mapping social-network
+       interactions in the insult data.
+        * E.g., see my related project: https://github.com/ancient-drama-SNA/Roman_Comedy-SNA.
 
 
 ## Progress:
 
 * Plautus:
-    - [ ] Amphitruo
+    - [X] Amphitruo
     - [x] Asinaria 
-    - [ ] Aulularia
+    - [X] Aulularia
     - [ ] Bacchides
     - [ ] Captivi
     - [ ] Casina
@@ -56,7 +65,7 @@ by hand, and (currently) put into CSV format.
     - [ ] Stichus
     - [ ] Trinummus
     - [ ] Truculentus
-    - [ ] Vidularia
+    - [ ] Vidularia (frags)
 * Terence:
     - [ ] Andria
     - [ ] Hecyra
