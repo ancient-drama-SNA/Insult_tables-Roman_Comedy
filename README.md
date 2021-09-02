@@ -4,6 +4,39 @@ Data on insult interactions among characters from the plays of Plautus and Teren
 by hand, and (currently) put into CSV format.
 
 
+
+
+## Project Goals:
+
+* These tables began as nothing more than handy records for reference while writing my
+  monograph. However they should be useful for a more formal (and sophisticated) analysis down
+  the road.
+* Once each play is analyzed and insult interactions are compiled, I hope to accomplish the
+  following:
+    1. Convert each table into a JSON document, for use in computer analysis.
+    2. Document and extend the workflow for use with other dramatic corpora.
+    3. Develop a methodology for analyzing insult interactions within corpora using the
+       encoded data. E.g., both within individual plays, but also across the Plautine and
+       Terentian corpora.
+    4. Develop a workflow (or even semi-automated process) for mapping social-network
+       interactions in the insult data.
+        * E.g., see my related project: https://github.com/ancient-drama-SNA/Roman_Comedy-SNA.
+        * Ideally, the final maps will [look something like this](https://ancient-drama-sna.github.io/Roman_comedy_networks/).
+
+
+### In the meantime...
+
+...the in-process tabular data can still be useful (and used).
+
+* For example:
+    - [Stanford Palladio](http://hdlab.stanford.edu/palladio/) will generate useful
+      visualizations from CSV date. (Just be sure to exclude metadata headers.)
+    - Python can be used to generate static SNA maps; see for example the [excellent video
+      tutorial series by WJB Mattingly](https://youtube.com/playlist?list=PL2VXyKi-KpYsjoY2rx9NiWJyfmmD79H97).
+    - Or, just good, old-fashioned reading! The tables contain useful raw data for anyone
+      working on insults and impoliteness in Roman comedy.
+
+
 ## Roman Comedy 'Insult Tables' notes:
 
 * As currently set up, the tables are encoded as CSV files.
@@ -25,24 +58,9 @@ by hand, and (currently) put into CSV format.
       another insult. Long strings of insults however are counted as a "chunk."
 
 
-## Project Goals
-
-* These tables began as nothing more than handy records for reference while writing my
-  monograph. However they should be useful for a more formal (and sophisticated) analysis down
-  the road.
-* Once each play is analyzed and insult interactions are compiled, I hope to accomplish the
-  following:
-    1. Convert each table into a JSON document, for use in computer analysis.
-    2. Document and extend the workflow for use with other dramatic corpora.
-    3. Develop a methodology for analyzing insult interactions within corpora using the
-       encoded data. E.g., both within individual plays, but also across the Plautine and
-       Terentian corpora.
-    4. Develop a workflow (or even semi-automated process) for mapping social-network
-       interactions in the insult data.
-        * E.g., see my related project: https://github.com/ancient-drama-SNA/Roman_Comedy-SNA.
-
-
 ## Progress:
+
+* Plays that have I have analyzed and documented so far.
 
 * Plautus:
     - [X] Amphitruo
