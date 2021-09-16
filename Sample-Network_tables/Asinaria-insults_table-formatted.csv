@@ -5,7 +5,7 @@ Libanus,servus,enslaved,male,85,86,poverty,Demaenetus,senex,free,male,yes,joking
 Demaenetus,senex,free,male,87,87,self-mockery,Demaenetus,senex,free,male,yes,joking,mild
 Libanus,servus,enslaved,male,91,95,poverty,Demaenetus,senex,free,male,yes,neutral,mocking
 Demaenetus,senex,free,male,102,103,character critique,Libanus,servus,enslaved,male,no,neutral,admiring
-Diabolus,adulescens,free,male,129,152,behavior critique,Philaenium,meretrix,free,female,offstage,hostile,very hostile; both women are offstage (inside the house)
+Diabolus,adulescens,free,male,129,152,behavior critique,Philaenium,meretrix,free (?),female,offstage,hostile,very hostile; both women are offstage (inside the house)
 Diabolus,adulescens,free,male,129,152,behavior critique,Cleareta,lena,free,female,offstage,hostile,very hostile; both women are offstage (inside the house)
 Argyrippus,adulescens,free,male,173,173,behavior critique,Cleareta,lena,free,female,yes,hostile,mild
 Argyrippus,adulescens,free,male,204,214,behavior critique,Cleareta,lena,free,female,yes,hostile,moderately hostile
@@ -27,9 +27,9 @@ Libanus,servus,enslaved,male,475,476,character critique,Mercator,mercator,free,m
 Leonida,servus,enslaved,male,477,477,character critique,Mercator,mercator,free,male,yes,hostile,hostile; a deliberate part of a larger scheme
 Leonida,servus,enslaved,male,481,482,exclamation,Mercator,mercator,free,male,yes,hostile,"hostile; ""vae te""; a deliberate part of a larger scheme"
 Leonida,servus,enslaved,male,485,486,character critique,Mercator,mercator,free,male,yes,hostile,hostile; a deliberate part of a larger scheme
-Cleareta,lena,free,female,511,511,character critique,Philaenium,meretrix,free,female,yes,neutral,very mild
-Cleareta,lena,free,female,521,534,behavior critique,Philaenium,meretrix,free,female,yes,hostile,mild; a roundabout insult via a long critique of Ph's behavior
-Cleareta,lena,free,female,543,543,behavior critique,Philaenium,meretrix,free,female,yes,hostile,mild
+Cleareta,lena,free,female,511,511,character critique,Philaenium,meretrix,free (?),female,yes,neutral,very mild
+Cleareta,lena,free,female,521,534,behavior critique,Philaenium,meretrix,free (?),female,yes,hostile,mild; a roundabout insult via a long critique of Ph's behavior
+Cleareta,lena,free,female,543,543,behavior critique,Philaenium,meretrix,free (?),female,yes,hostile,mild
 Leonida,servus,enslaved,male,560,565,behavior critique,Libanus,servus,enslaved,male,yes,joking,joking ironic praise; another kind of verbal duel
 Libanus,servus,enslaved,male,566,576,behavior critique,Leonida,servus,enslaved,male,yes,joking,joking ironic praise; another kind of verbal duel
 Argyrippus,adulescens,free,male,625,625,status mockery,Libanus,servus,enslaved,male,yes,hostile,hostile response to L's sex-joke

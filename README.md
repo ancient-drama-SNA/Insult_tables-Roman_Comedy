@@ -5,7 +5,6 @@ by hand, and (currently) put into CSV format.
 
 
 
-
 ## Project Goals:
 
 * These tables began as nothing more than handy records for reference while writing my
@@ -24,17 +23,24 @@ by hand, and (currently) put into CSV format.
         * Ideally, the final maps will [look something like this](https://ancient-drama-sna.github.io/Roman_comedy_networks/).
 
 
+
 ### In the meantime...
 
 ...the in-process tabular data can still be useful (and used).
 
 * For example:
+    - [Cytoscape](https://cytoscape.org) and [Gephi](https://gephi.org) can both generate SNA
+      maps using data in these files.
     - [Stanford Palladio](http://hdlab.stanford.edu/palladio/) will generate useful
       visualizations from CSV date. (Just be sure to exclude metadata headers.)
     - Python can be used to generate static SNA maps; see for example the [excellent video
       tutorial series by WJB Mattingly](https://youtube.com/playlist?list=PL2VXyKi-KpYsjoY2rx9NiWJyfmmD79H97).
     - Or, just good, old-fashioned reading! The tables contain useful raw data for anyone
       working on insults and impoliteness in Roman comedy.
+
+
+* An example Social Networking Analysis map:
+   ![Sample Map (*Asinaria*) — Created with Cytoscape](./Sample-Network_tables/Asinaria-SNA_map_example.png)
 
 
 ## Roman Comedy 'Insult Tables' notes:
