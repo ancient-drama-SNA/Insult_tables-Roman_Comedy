@@ -2,7 +2,7 @@ Roman Comedy — Insult interaction tables:
 	- Plays to complete:
 		- Amphitruo @done(2021-08-26)
 		- Asinaria @done(2021-08-1)
-		- Aulularia
+		- Aulularia @done(2021-09-21)
 		- Bacchides
 		- Captivi
 		- Casina
@@ -25,3 +25,6 @@ Roman Comedy — Insult interaction tables:
 		- Develop an automation/script to clip the header and convert to JSON format.
 		- Develop a workflow for analyzing the data in meaningful ways.
 		- Consider whether to extend the workflow to non-RC texts.
+		- Think about possible indices:
+			- 'Insult Density' (i.e., number of insults per line of text)
+			- Comparison of insult interactions vs. "regular" SNA interactions (i.e., total amount of speech).

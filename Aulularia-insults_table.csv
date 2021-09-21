@@ -60,10 +60,9 @@ Slave of Lyconides,servus,enslaved,male,653,654,behavior critique,Euclio,senex,f
 Slave of Lyconides,servus,enslaved,male,658,658,behavior critique,Euclio,senex,free,male,yes,joking insult,"The L.S. is angry at Euclio's behavior and tells him to ""go to hell"" (Iuppiter te dique perdant)"
 Euclio,senex,free,male,718,720,behavior critique,Audience,spectatores,unknown,unknown,yes,maddened insult,Euclio is desperate and angry after losing his gold; he lashes out at the audience
 Euclio,senex,free,male,743,743,behavior critique,Lyconides,adulescens,free,male,yes,outraged abuse,Euclio misunderstands what Lyconides admits to and so threatens to kill him
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+Euclio,senex,free,male,745,751,behavior critique,Lyconides,adulescens,free,male,yes,outraged abuse,Euclio misunderstands what Lyconides admits to and brutally insults him
+Lyconides,adulescens,free,male,751,751,self critique,Lyconides,adulescens,free,male,yes,chagrined apology,"Lyconides calls himself ""stultus"""
+Euclio,senex,free,male,768,768,behavior critique,Lyconides,adulescens,free,male,yes,outraged abuse,"Euclio misunderstands what Lyconides admits to and calls him a ""fur"""
+Lyconides,adulescens,free,male,769,769,behavior critique,Euclio,senex,free,male,yes,frank criticism,"Lyconides calls Euclio ""insanus""; hook://file/2BjKOPbfb?p=Vmltd2lraS9aZXR0ZWxfV2lraQ==&n=210817-1249-insanity_insults-a.wiki"
+Lyconides,adulescens,free,male,819,819,behavior critique,Slave of Lyconides,servus,enslaved,male,yes,frank criticism,Lyconides says that his slave is crazy; hook://file/2BjKOPbfb?p=Vmltd2lraS9aZXR0ZWxfV2lraQ==&n=210817-1249-insanity_insults-a.wiki
+Lyconides,adulescens,free,male,824,825,status critique,Slave of Lyconides,servus,enslaved,male,yes,outraged abuse,Lyconides insults his slave with status-specific language
