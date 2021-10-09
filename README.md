@@ -39,8 +39,8 @@ by hand, and (currently) put into CSV format.
       working on insults and impoliteness in Roman comedy.
 
 
-* An example Social Networking Analysis map (created with Cytoscape):
-   ![Sample Map (*Asinaria*) — Created with Cytoscape](./Sample-Network_tables/Asinaria-SNA_map_example.png)
+* An example Social Networking Analysis map (created with Cytoscape): ![Sample Map
+  (*Asinaria*) — Created with Cytoscape](./Insult_networks-sample/Asinaria-SNA_map_example.png)
 
 
 ## Roman Comedy 'Insult Tables' notes:
